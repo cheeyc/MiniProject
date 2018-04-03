@@ -1,0 +1,11 @@
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Users\Chee\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
